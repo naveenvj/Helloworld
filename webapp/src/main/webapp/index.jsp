@@ -19,6 +19,11 @@
     <label for="Place"><b>Place</b></label>
     <input type="text" placeholder="place" name="place" id="place" required>
     <hr>
+    <br>
+    <label for="Date"><b>date</b></label>
+    <input type="num" placeholder="date" name="date" id="date" required>
+    <hr>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
