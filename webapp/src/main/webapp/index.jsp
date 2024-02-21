@@ -16,8 +16,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <label for="Gender"><b>Gender</b></label>
-    <input type="text" placeholder="Gender" name="Gender" id="Gender" required>
+    <label for="Place"><b>Place</b></label>
+    <input type="text" placeholder="place" name="place" id="place" required>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
